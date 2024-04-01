@@ -11,3 +11,6 @@
    - Telegram: [@abrarishere](https://t.me/abrarishere)
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love exploring new technologies and experimenting with coding projects.
+
+
+### Waiting for friends so that we can do projects in team
