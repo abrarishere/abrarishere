@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio.<br>👯 I’m looking to collaborate on Python web applications to improve my skills.<br>🌱 I’m currently learning JavaScript.<br>⚡ Fun fact: Besides frontend development, I have some knowledge in API development, app development, AI, data science, machine learning, and more.
+🔭 I’m currently learning MERN.<br>👯 I’m looking to collaborate on Python and Full Stack web applications to improve my skills.<br>🌱 I’m currently learning JavaScript Frameworks.<br>⚡ Fun fact: Besides frontend development, I have some knowledge in API development, app development, AI, data science, machine learning, and more.
 
 
 # 💻 Tech Stack:
