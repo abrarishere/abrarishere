@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on pharamcyDataManah<br>gement<br>👯 I’m looking to collaborate on Full Stack and Python Stuff<br>🌱 I’m currently learning JS Libraries.
+🔭 I’m currently working on pharamcyDataManagement<br>👯 I’m looking to collaborate on Full Stack and Python Stuff<br>🌱 I’m currently learning JS Libraries.
 
 
 ## 🌐 Socials:
