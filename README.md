@@ -1,7 +1,8 @@
 
 
 # 💫 About Me:
-🔭 I’m currently focusing on college studies and taking a break from coding.<br>👯 I’m open to future collaborations on Full Stack and Python projects when I get back to coding.<br>🌱 I’ll be resuming my learning of JS Libraries and other tech stacks after my college commitments.
+👯 I’m open to collaborations on Full Stack and Python projects—let’s build something cool together!
+🌱 I'm currently diving back into JavaScript libraries and expanding my knowledge of modern tech stacks.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-abrar-7566562a6)
