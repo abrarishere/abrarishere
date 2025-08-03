@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-👯 I’m open to collaborations on Full Stack and Python projects—let’s build something cool together!
+👯 I’m open to collaborations on Full Stack and Python projects—let’s build something cool together!</br>
 🌱 I'm currently diving back into JavaScript libraries and expanding my knowledge of modern tech stacks.
 
 ## 🌐 Socials:
